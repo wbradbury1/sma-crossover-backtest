@@ -24,5 +24,5 @@ Open sma_crossover_strategy.ipynb and run all cells,
 or view the pre-run version with plots: sma_crossover_strategy.rendered.ipynb
 
 ## About 
-Author: William Bradbury
+Author: William Bradbury 
 Affiliation: BSc Mathematics, University of Warwick
