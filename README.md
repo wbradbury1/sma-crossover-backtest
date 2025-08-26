@@ -13,7 +13,10 @@ The strategy is compared against Buy & Hold across different time periods, asset
 On SPY (2000–present), SMA crossovers achieved **lower volatility and smaller drawdowns** than Buy & Hold, with a slightly lower CAGR but higher Sharpe ratio.  
 Tests on other assets (AAPL, BTC-USD) and periods showed the same pattern in most cases:  
 - **Bear markets:** SMA provided downside protection  
-- **Bull markets:** strategy lagged due to missed rallies and whipsaws in volatile conditions  
+- **Bull markets:** strategy lagged due to missed rallies and whipsaws in volatile conditions
+
+### Example Equity Curve
+![Equity Curve](equity_curve.png)
 
 ## How to Run
 ```bash
